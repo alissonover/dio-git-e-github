@@ -1,5 +1,5 @@
 
-# Bootcamp DIO Git & Github
+# Bootcamp | DIO Git & Github
 
 Repositorio para armazenar resumos sobre Git e Github do curso "Versionamento de Código" com Git e Github. 
 
